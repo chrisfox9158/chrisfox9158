@@ -1,5 +1,5 @@
 # Chris McKeel (*chrisfox9158*)
-Biomedical Engineering student at the University of Florida (Honors, Class of 2030), with interests centered on mechanical systems and controls.
+Biomedical Engineering student at the University of Florida (Honors, Class of 2030), interested in mechanical systems and controls—reinforcement learning, cryptanalysis, and whatever the next project demands.
 Started programming June 2026. Building from documentation, source papers, and piece-by-piece deconstruction with Claude. Code is always my own, written by hand.
 
 **Repos:**
@@ -10,4 +10,4 @@ Started programming June 2026. Building from documentation, source papers, and p
 - [vigenere-decoder](https://github.com/chrisfox9158/vigenere-decoder) — Vigenere cipher decoder (Kasiski examination, Index of Coincidence) for CTF cryptanalysis
 
 **Toolkit:**
-Python, PyTorch, MuJoCo, NumPy, Git
+Python, Git, PyTorch, MuJoCo, NumPy
