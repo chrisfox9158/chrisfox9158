@@ -1,16 +1,15 @@
-## Hi there 👋
+# Chris McKeel
+*(chrisfox9158)*
 
-<!--
-**chrisfox9158/chrisfox9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at the University of Florida (Honors, Class of 2030), with interests centered on mechanical systems and controls.
+Started programming June 2026. Building from documentation, source papers, and piece-by-piece deconstruction with Claude. Code is always my own, written by hand.
 
-Here are some ideas to get you started:
+**Repos:**
+- [mujoco-gripper-rl](https://github.com/chrisfox9158/mujoco-gripper-rl) — TD3 reinforcement learning agent hand-implemented for custom robotics environment in MuJoCo
+- [td3-validation](https://github.com/chrisfox9158/td3-validation) — TD3 architecture validated against known, well-documented Gymnasium-based benchmark
+- [blackjack-ml](https://github.com/chrisfox9158/blackjack-ml) — Tabular Q-learning agent for object-oriented casino-style Blackjack environment
+- [blackjack-table](https://github.com/chrisfox9158/blackjack-table) — Human-playable implementation of the Blackjack engine above
+- [vigenere-decoder](https://github.com/chrisfox9158/vigenere-decoder) — Vigenere cipher decoder (Kasiski examination, Index of Coincidence) for CTF cryptanalysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolkit:**
+Python, PyTorch, MuJoCo, NumPy, Git
