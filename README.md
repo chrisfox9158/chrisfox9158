@@ -1,6 +1,4 @@
-# Chris McKeel
-*(chrisfox9158)*
-
+# Chris McKeel (*chrisfox9158*)
 Biomedical Engineering student at the University of Florida (Honors, Class of 2030), with interests centered on mechanical systems and controls.
 Started programming June 2026. Building from documentation, source papers, and piece-by-piece deconstruction with Claude. Code is always my own, written by hand.
 
