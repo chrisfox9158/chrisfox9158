@@ -1,6 +1,6 @@
 # Chris McKeel (*chrisfox9158*)
 Biomedical Engineering student at the University of Florida (Honors, Class of 2030), interested in mechanical systems and controls. Reinforcement learning, cryptanalysis, and whatever the next project demands.
-Started programming June 2026. I use documentation, source papers, and existing repositories for research; AI tools leveraged as a tutor and assistant for unfamiliar topics.
+Started programming June 2026. Documentation, source papers, and existing repositories for research; AI tools leveraged as a tutor and assistant for unfamiliar topics.
 
 ## Repos
 - [mujoco-gripper-rl](https://github.com/chrisfox9158/mujoco-gripper-rl) — TD3 reinforcement learning agent hand-implemented for custom robotics environment in MuJoCo
