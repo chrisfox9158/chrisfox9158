@@ -9,6 +9,8 @@ Started programming June 2026. Documentation, source papers, and existing reposi
 - [blackjack-table](https://github.com/chrisfox9158/blackjack-table) — Human-playable implementation of the Blackjack engine above
 - [vigenere-decoder](https://github.com/chrisfox9158/vigenere-decoder) — Vigenere cipher decoder (Kasiski examination, Index of Coincidence) for CTF cryptanalysis
 
+**Currently building:** [maze-algorithms](https://github.com/chrisfox9158/maze-algorithms) — Algorithmic maze generation and pathfinding, with Pygame visualization
+
 ## Toolkit
 - **Languages:** Python, JavaScript, CSS, HTML
 - **Tools and Libraries:** Git, PyTorch, MuJoCo, NumPy, Flask
