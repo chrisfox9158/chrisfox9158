@@ -14,4 +14,6 @@ Started programming June 2026. Documentation, source papers, and existing reposi
 
 ## Toolkit
 - **Languages:** Python, JavaScript, CSS, HTML
-- **Tools and Libraries:** Git, PyTorch, MuJoCo, NumPy, Flask
+- **Environment:** Git, uv
+- **Machine Learning & Simulation:** PyTorch, MuJoCo, Gymnasium, NumPy
+- **Interface:** Flask, Pygame
