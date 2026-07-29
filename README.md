@@ -8,6 +8,7 @@ Started programming June 2026. Documentation, source papers, and existing reposi
 - [blackjack-ml](https://github.com/chrisfox9158/blackjack-ml) — Tabular Q-learning agent for object-oriented casino-style Blackjack environment
 - [blackjack-table](https://github.com/chrisfox9158/blackjack-table) — Human-playable implementation of the Blackjack engine above
 - [vigenere-decoder](https://github.com/chrisfox9158/vigenere-decoder) — Vigenere cipher decoder (Kasiski examination, Index of Coincidence) for CTF cryptanalysis
+- [markov-generation](https://github.com/chrisfox9158/markov-generation) — Terminal-based Markov chain text generator
 
 **Currently building:** [maze-algorithms](https://github.com/chrisfox9158/maze-algorithms) — Algorithmic maze generation and pathfinding, with Pygame visualization
 
