@@ -10,8 +10,7 @@ Started programming June 2026. Documentation, source papers, and existing reposi
 - [vigenere-decoder](https://github.com/chrisfox9158/vigenere-decoder) — Vigenere cipher decoder (Kasiski examination, Index of Coincidence) for CTF cryptanalysis
 - [markov-generation](https://github.com/chrisfox9158/markov-generation) — Terminal-based Markov chain text generator
 - [maze-algorithms](https://github.com/chrisfox9158/maze-algorithms) — Algorithmic maze generation and pathfinding with Pygame visualization
-
-**Currently Building:** [pidkit](https://github.com/chrisfox9158/pidkit) — Standalone PID controller package for error correction in simulated systems
+- [pidkit](https://github.com/chrisfox9158/pidkit) — Standalone PID controller package for error correction in simulated systems
 
 ## Toolkit
 - **Languages:** Python, JavaScript, CSS, HTML
