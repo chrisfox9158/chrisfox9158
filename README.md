@@ -11,8 +11,7 @@ Started programming June 2026. Documentation, source papers, and existing reposi
 - [markov-generation](https://github.com/chrisfox9158/markov-generation) — Terminal-based Markov chain text generator
 - [maze-algorithms](https://github.com/chrisfox9158/maze-algorithms) — Algorithmic maze generation and pathfinding with Pygame visualization
 - [pidkit](https://github.com/chrisfox9158/pidkit) — Minimal, standalone PID controller package for error correction in Python
-
-**Currently Building:** [pid-plants](https://github.com/chrisfox9158/pid-plants) — Plant testbed for pidkit validation against dynamic simulations
+- [pid-plants](https://github.com/chrisfox9158/pid-plants) — Plant testbed for pidkit validation against dynamic simulations
 
 ## Toolkit
 - **Languages:** Python, JavaScript, CSS, HTML
